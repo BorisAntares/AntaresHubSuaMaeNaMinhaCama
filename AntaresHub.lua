@@ -4,7 +4,7 @@ OrionLib:MakeNotification({
         Name = "made with love by Boris/ctrl.dev",
         Content = "O script foi descontinuado neste arquivo, pq temos outro! basicamente escolhe a versão do scriptblox.com!",
         Image = "rbxassetid://7733956134",
-        Time = 15
+        Time = 30
 })
 
 Tab:AddLabel("obrigado indi0ta por avaliar com um 9 o AHub")
