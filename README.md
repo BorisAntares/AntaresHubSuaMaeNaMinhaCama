@@ -1,5 +1,6 @@
 # Antares Hub
-Hub pessoal para o grupo antares, discord: discord.gg/uAtpbJG4y4
+Hub feito para brookhaven
+
 # Fatos
 
 eu fiz o script quando eu estava cagando
