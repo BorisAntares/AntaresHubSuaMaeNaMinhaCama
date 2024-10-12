@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/thanhdat4461/OrionMoblie/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
 local Window = OrionLib:MakeWindow({Name = "Antares Hub Universal V0.0.1", HidePremium = false, SaveConfig = true, ConfigFolder = "AntaresHub", introText = "made by bxris"})
 local Tab = Window:MakeTab({
         Name = "Main",
